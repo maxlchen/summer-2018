@@ -3,7 +3,7 @@
 This application is meant to automate the task of testing whether or not a company in the solitication initiation list is already in the CRM. 
 This method uses a Fuzzy Matching (approximate string matching) and a Supervised Machine Learning classifier to decide whether or not a company is included in the CRM already.
 
-##Required Packages
+## **Required Packages**
 
 The following program must be installed:
 
