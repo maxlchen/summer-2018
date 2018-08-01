@@ -3,7 +3,7 @@
 This application is meant to automate the task of testing whether or not a company in the solitication initiation list is already in the CRM. 
 This method uses a Fuzzy Matching (approximate string matching) and a Supervised Machine Learning classifier to decide whether or not a company is included in the CRM already.
 
-## **Required Packages**
+##Required Packages
 
 The following program must be installed:
 
@@ -43,14 +43,23 @@ fuzzyset
 
 
 
-##**How to Use This App**
+## **How to Use This App**
 
 1. EXTREMELY IMPORTANT: follow the instructions above.
 2. <strong>Make sure that the most recently trained classifier is in the same folder!!</strong> This file is named "decisiontree.sav"
 3. Make sure you have the most recent CRM appropriate for the Solicitation File being used.
 4. Launch the application and follow the instructions listed.
 
-*Developers:*<br/>
+## Metrics
+In creating a model for this application, a Decision Tree and a Logistic Regression were tested.
+Decision Tree mean accuracy score: 0.9621
+Logistic Regression mean accuracy score: 0.7273
+
+## Appearance
+
+![Screenshot](/image/gui-screenshot.png)
+
+*Developer:*<br/>
 *Max Chen (Cornell University '21)*
 
 
