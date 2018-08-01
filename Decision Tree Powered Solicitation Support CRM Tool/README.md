@@ -57,7 +57,9 @@ Logistic Regression mean accuracy score: 0.7273
 
 ## Appearance
 
-![Screenshot](/image/gui-screenshot.png)
+As of <i>August 1, 2018</i>:
+
+![Screenshot](https://github.com/maxlchen/summer-2018/blob/master/Decision%20Tree%20Powered%20Solicitation%20Support%20CRM%20Tool/image/gui-screenshot.png)
 
 *Developer:*<br/>
 *Max Chen (Cornell University '21)*
