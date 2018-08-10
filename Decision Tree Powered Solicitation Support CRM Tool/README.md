@@ -83,12 +83,12 @@ Decision Tree mean accuracy score: 0.9621
 Logistic Regression mean accuracy score: 0.7273
 
 ## Adding Anaconda to PATH
-![Screenshot](/image/AnacondaInstall.png)
+![Screenshot](https://github.com/maxlchen/summer-2018/blob/master/Decision%20Tree%20Powered%20Solicitation%20Support%20CRM%20Tool/image/AnacondaInstall.png)
 
 ## Appearance
 
 As of <i>August 1, 2018</i>
-![Screenshot](/image/gui-screenshot.png)
+![Screenshot](https://github.com/maxlchen/summer-2018/blob/master/Decision%20Tree%20Powered%20Solicitation%20Support%20CRM%20Tool/image/gui-screenshot.png)
 
 *Developer:*<br/>
 *Max Chen (Cornell University '21)*
